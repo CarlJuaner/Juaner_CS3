@@ -9,7 +9,7 @@ html{
 
 h1{
 	text-align: center;
-	color: #FF0000;
+	background-color: #FF0000;
 	font-family: 'Verdana', sans-serif;
 	border: 2px dotted blue;
 	padding-top: 10px;
@@ -32,6 +32,7 @@ p{
 	border-left-style: dashed;
 	width: 500px;
 }
+
 span{
 	color: rgb(0,0,255);
 	font-weight: bold;
